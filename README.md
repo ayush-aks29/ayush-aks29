@@ -4,6 +4,6 @@
 
 💻 Tech Stacks - HTML5 , CSS3 , Bootstrap , Python-3 , MySQL
 
-🗂️ Projects :  1. Rock Paper Scissors game                                                                                                                                                        2. Random Password Generator
+🗂️ Projects :  1. Rock Paper Scissors game                                                                                                                                                         2. Random Password Generator                                                                                                                                                       3. Lifestyle Store
 
 👨🏻‍💻 LinkedIn Profile : https://www.linkedin.com/in/ayush-kumar-srivastava-062716189/
