@@ -5,6 +5,6 @@
 💻 Tech Stacks - Python-3 , MySQL
 
 🗂️ Projects :   1. Rock Paper Scissors game                                                                                                                                                         2. Random Password Generator                                                                                                                                                       3. Lifestyle Store
-                4. Tirtle Race
+                4. Turtle Race
 
 👨🏻‍💻 LinkedIn Profile : https://www.linkedin.com/in/ayush-kumar-srivastava-062716189/
