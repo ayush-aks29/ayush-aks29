@@ -1,10 +1,13 @@
 👋 Hi there!! I'm Ayush  
 
-🎓 Currently pursuing Bachelor of Technology in Information Technology graduating in July'22
+🎓 Bachelor of Technology in Information Technology , graduated in June'22
 
-💻 Tech Stacks - Python-3 , MySQL
+💻 Tech Stacks - Python-3 , MySQL , Java , Data Structures
 
-🗂️ Projects :   1. Rock Paper Scissors game                                                                                                                                                         2. Random Password Generator                                                                                                                                                       3. Lifestyle Store
-                4. Turtle Race
+🗂️ Projects : 1. Rock Paper Scissors game                                                                                                                                                2. Random Password Generator
+               3. Banking System 
+               4. Lifestyle Store
+               5. Turtle Race
+               6. Smart Hospital For Heart Disease Prediction
 
 👨🏻‍💻 LinkedIn Profile : https://www.linkedin.com/in/ayush-kumar-srivastava-062716189/
