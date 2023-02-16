@@ -10,4 +10,4 @@
                5. Turtle Race
                6. Smart Hospital For Heart Disease Prediction
 
-👨🏻‍💻 LinkedIn Profile : https://www.linkedin.com/in/ayush-kumar-srivastava-062716189/
+👨🏻‍💻 LinkedIn Profile : https://www.linkedin.com/in/ayushkrsrivastava/
