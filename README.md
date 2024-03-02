@@ -19,4 +19,4 @@ I'm a software developer from Bengaluru, India. I completed my B.Tech in Informa
 2. Smart Hospital for Heart Disease prediction: An application that uses machine learning algorithms to predict heart diseases.
 
 ## 🌐 Connect with me
-LinkedIn :(https://bit.ly/ayush-kumar-srivastava)https://bit.ly/ayush-kumar-srivastava
+LinkedIn : https://bit.ly/ayush-kumar-srivastava
